@@ -1,0 +1,7 @@
+/* App.css */
+
+body {
+  background-color: var(--background);
+  margin: 0;  /* remove default body margin for cleaner layout */
+  color: inherit; /* text color will be inherited or set elsewhere */
+}
